@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "dark" # "default", "air", "aqua", "contrast", "dark"
 
 # Site Settings
 locale                   : "ko_KR"
-title                    : "Devsisters_QA_Blog"
+title                    : "Devsisters QA Blog"
 title_separator          : "-"
 name                     : "Your Name"
 description              : "Devsisters QA Blog"
